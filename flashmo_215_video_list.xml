@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+
+	<video>
+		<title>Kobo - Distribution</title>
+		<description><![CDATA[<p><a href="" target="_parent">KOBO</span></p>]]></description>
+		<url>videos/20151029_154718.flv</url>
+		<thumbnail>thumbnails/s_water_surface.jpg</thumbnail>
+		<duration>00:31</duration>
+	</video>
+	<video>
+		<title>Scribd</title>
+		<description><![CDATA[<p>Scribd Distribution</p>]]></description>
+		<url>videos/20151029_154944.flv</url>
+		<thumbnail>thumbnails/s_camera_focus.jpg</thumbnail>
+		<duration>00:25</duration>
+	</video>
+	<video>
+		<title>Rockstand</title>
+		<description><![CDATA[<p>Rockstand</p>]]></description>
+		<url>videos/20151029_155211.flv</url>
+		<thumbnail>thumbnails/s_garden_scene.jpg</thumbnail>
+		<duration>00:40</duration>
+	</video>
+
+	<video>
+		<title>Google Play</title>
+		<description><![CDATA[<p>Google Play</p>]]></description>
+		<url>videos/20151029_155633.flv</url>
+		<thumbnail>thumbnails/Google.jpg</thumbnail>
+		<duration>00:31</duration>
+	</video>
+	<video>
+		<title>Amazon Kindle</title>
+		<description><![CDATA[<p>Amazon Kindle</p>]]></description>
+		<url>videos/20151029_160940.flv</url>
+		<thumbnail>thumbnails/AMAZON.jpg</thumbnail>
+		<duration>00:25</duration>
+	</video>
+</videos>
